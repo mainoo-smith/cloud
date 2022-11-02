@@ -1,0 +1,11 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Sid": "Stmt1667413472936",
+        "Action": "s3-object-lambda:*",
+        "Effect": "Allow",
+        "Resource": "*"
+      }
+    ]
+  }
